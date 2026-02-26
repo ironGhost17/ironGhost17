@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Anurag 👋
 
-<!--
-**ironGhost17/ironGhost17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Automation-Focused Software Engineer  
+📍 Kolkata, India  
 
-Here are some ideas to get you started:
+I build reliable REST APIs, design testable systems, and explore AI evaluation workflows.  
+Currently strengthening problem-solving and scalable backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Building
+
+- Production-ready REST APIs using **FastAPI**
+- Backend testing frameworks using **Pytest**
+- UI automation using **Playwright**
+- Test automation suites using **Robot Framework**
+- AI evaluation pipelines using **Ragas**
+- Structured Data Structures & Algorithms practice
+
+---
+
+## 🧠 Technical Skills
+
+### Backend Development
+- Python
+- FastAPI
+- REST API design
+- Async endpoints
+- Request validation & error handling
+- OpenAPI / Swagger documentation
+
+### Testing & Automation
+- Pytest (API testing)
+- Playwright (UI automation)
+- Robot Framework
+- Postman
+- Test case design & execution
+
+### AI Evaluation & Reliability
+- LLM evaluation using Ragas
+- Context precision testing
+- Automated evaluation scripts
+- Metric-based response validation
+
+---
+
+## 📈 Current Focus
+
+- Writing clean, maintainable backend code
+- Designing scalable API architectures
+- Improving DSA problem-solving depth
+- Building systems with strong testing foundations
+
+---
+
+## 📌 Upcoming Engineering Projects
+
+- Scalable URL Shortener (FastAPI + Redis)
+- AI Evaluation Mini Platform
+- Structured DSA Pattern Repository
+
+---
+
+## 🎯 Career Direction
+
+Focused on transitioning into high-impact product engineering roles where strong backend fundamentals, automation discipline, and system thinking matter.
+
+---
+
+> Clean architecture. Reliable systems. Continuous improvement.
